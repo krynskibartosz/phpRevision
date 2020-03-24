@@ -1,0 +1,1 @@
+<p>Bonjour <?php echo $__GET['prenom'] . $__GET['nom']; ?> !</p>
