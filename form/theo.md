@@ -33,3 +33,5 @@ Dans une balise <form> on a 2 méthode importante
             la taille,
             l'emplacement temporaire du fichier(qui attend de savoir si le serveur l'enregistre ou pas),
             Un code d'erreur pour savoir si l'envoie c'est bien effectuer ou pas.(0) si il y en a pas
+
+            Les variables superglobales sont accessible sur toutes les pages php qu'on utilise
